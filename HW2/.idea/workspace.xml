@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ebea0b1-c6c8-4855-b055-76e8a475e69a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/Utils-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/W1BS-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/compress-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/config_profile-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/descriptor-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/detection-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/detector-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/detector_try-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/getAcc-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/keypoint_detection_demo-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/load_train-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/plotPoint-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/.ipynb_checkpoints/test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/Loggers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/Losses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/Utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/W1BS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/compress.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/config_profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/descriptor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/detection.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/detection/933271081_wangchih_keypoints.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/detector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/detector_try.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/getAcc.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/.ipynb_checkpoints/NotreDame1-checkpoint.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/.ipynb_checkpoints/patches0001-checkpoint.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/.ipynb_checkpoints/patches0001_harris-checkpoint.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/NotreDame1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/NotreDame2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/NotreDame3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/NotreDame4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/NotreDame5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/patches0001.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/patches0001_harris.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/patches0002.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/patches0003.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/images/patches1482.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/img/NotreDame1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/img/NotreDame2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/img/NotreDame3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/img/NotreDame4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/img/NotreDame5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/keypoint_detection_demo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/load_train.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/logs/events.out.tfevents.1548734835.pelican04.eecs.oregonstate.edu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_20.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_21.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_22.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_23.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_24.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_25.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_26.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_27.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_28.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_29.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_30.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_31.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_32.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_33.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_34.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_35.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_36.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_37.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_38.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_39.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train/_liberty_min_as_fliprot/checkpoint_9.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_1024/_liberty_min_as_fliprot/checkpoint_9.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN1_512/_liberty_min_as_fliprot/checkpoint_9.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024/_liberty_min_as_fliprot/checkpoint_9.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_1024_after/_liberty_min_as_fliprot/checkpoint_9.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_512/_liberty_min_as_fliprot/checkpoint_9.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN2_tt/_liberty_min_as_fliprot/checkpoint_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_1024/_liberty_min_as_fliprot/checkpoint_9.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_0.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_1.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_10.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_11.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_12.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_13.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_14.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_15.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_16.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_17.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_18.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_19.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_2.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_20.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_21.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_22.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_23.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_24.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_25.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_26.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_27.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_28.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_29.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_3.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_30.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_31.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_32.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_33.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_34.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_4.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_5.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_6.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_7.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_8.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/models/liberty_train_CNN3_512/_liberty_min_as_fliprot/checkpoint_9.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/plotPoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/test/NotreDame1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/wangchih_descriptions.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/wangchih_keypoints.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keypoint_descriptor/wangchih_patchs.pt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HW2$HW2.coverage" NAME="HW2 Coverage Results" MODIFIED="1549827879341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="860935083">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ipynb" value="2" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="2" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/matching.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/keypoint_detection_solution.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="193" />
+    <option name="y" value="23" />
+    <option name="width" value="1406" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="HW2" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="HW2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ebea0b1-c6c8-4855-b055-76e8a475e69a" name="Default Changelist" comment="" />
+      <created>1549827092331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549827092331</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="35" y="23" width="1405" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25752017" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.1834395" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/descriptor_CNN3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desciptor_example.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keypoint_detection_solution.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matching.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
