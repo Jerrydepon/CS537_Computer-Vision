@@ -1,7 +1,3 @@
-% Camera Calibration Stencil Code
-% CS 4476 / 6476: Computer Vision, Georgia Tech
-% Written by Henry Hu, Grady Williams, James Hays
-
 % This script 
 % (1) Loads 2D and 3D data points
 % (2) Calculates the projection matrix from those points    (you code this)
