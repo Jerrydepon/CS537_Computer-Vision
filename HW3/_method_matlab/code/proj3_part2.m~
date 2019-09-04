@@ -1,7 +1,3 @@
-% Fundamental Matrix Estimation Stencil Code
-% CS 4476 / 6476: Computer Vision, Georgia Tech
-% Written by Henry Hu
-
 % This script 
 % (1) Loads 2D points from image pairs and the images themselves
 % (2) Estimates the fundamental matrix                     (you code this)
