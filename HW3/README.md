@@ -1,4 +1,4 @@
 * See "HW3.pdf" and "Bonus HW3.pdf" for task description.
-* See "HW2_part_1" to "HW2_part_3" in "/_method_python/matching_sol/" for coding process.
+* See "proj3_part1.m", "proj3_part2.m" and "proj3_part3.m" in "/_method_matlab/code/" for coding process.
 * See "ransac_fundamental_matrix.m" in "/_method_matlab/code" for RANSAC algorithm (bonus).
 * See "report.pdf" and "report_bonus.pdf" for my result.
