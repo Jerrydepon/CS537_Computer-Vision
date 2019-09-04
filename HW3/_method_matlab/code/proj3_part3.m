@@ -1,7 +1,3 @@
-% RANSAC Stencil Code
-% CS 4476 / 6476: Computer Vision, Georgia Tech
-% Written by Henry Hu and James Hays
-
 % This script 
 % (1) Loads and resizes images
 % (2) Calls VLFeat's SIFT matching functions
